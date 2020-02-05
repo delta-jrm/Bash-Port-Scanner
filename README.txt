@@ -1,7 +1,3 @@
-CSPC 42700 Project 1: Bash Port Scanner
-Jocelyn Murray
-2/3/2020
-
 NAME
 	portscanner.sh
 
