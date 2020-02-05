@@ -21,9 +21,6 @@ COMMAND-LINE OPTIONS
 INPUT FILE FORMAT
 	In order to create a file to pipe into this document, please specify host, startport, and stopport within one file, repeating this order. Each element of that list should be put onto a new line. See the example below:
 	
-	lewisu.edu
-	80
-	85
 	yahoo.com
 	100
 	110
